@@ -27,6 +27,9 @@ This project can be deployed to:
 - Vercel
 - Any static hosting service
 
+## Access
+To access my project ,use https://ai.studio/apps/drive/1wgh3TqnVpO14pyzQnIqLT5EIbnarO3AM
+
 ## License
 
 This project is open source and available under the MIT License.
